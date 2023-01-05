@@ -165,19 +165,43 @@ section{
     font-weight: 700;
     font-size: 25px;
     color: #474747;
+    margin-bottom: 10px;
 
 }
 .resume .sub-title{
     color: #757575;
     font-weight: 600;
     font-size: 20px;
+    margin-bottom: 20px;
 }
 .resume .description{
     color: #757575;
 
 
 }
-.resume-item{
+.contract .section-title{
+    text-align: left;
+
+}
+.contract{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contract input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.contract a{
+    text-decoration: none;
+}
+
+
+
+resume-item{
     margin-top: 30px;
     margin-bottom: 30px;
-}
+}px 
